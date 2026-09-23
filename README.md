@@ -8,6 +8,7 @@ Built for people who need to manage more than one Roblox session without manuall
 
 ## Features
 
+- Your account that already login, only get stored in your main pc, no one can accses
 - Launch multiple Roblox instances
 - Launch multiple Roblox accounts
 - Start several accounts in one session
