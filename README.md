@@ -56,5 +56,5 @@ Do not close the launcher while it is still starting Roblox instances.
 
 Use this software at your own risk.
 
-## app showcase (kinda ai sloop because i ask ai to finish it im lazy hehe) <img width="1042" height="792" alt="btpw5p2" src="https://github.com/user-attachments/assets/5071eb09-56d4-4e27-ae35-3f259c8465cf" />
+## app showcase (kinda ai sloop because i ask ai to finish the ui only im lazy hehe) <img width="1042" height="792" alt="btpw5p2" src="https://github.com/user-attachments/assets/5071eb09-56d4-4e27-ae35-3f259c8465cf" />
 ## in game <img width="1919" height="1079" alt="bttb3dj" src="https://github.com/user-attachments/assets/dfcd0d1e-91cc-4560-bbd2-d0f29a95bc47" />
