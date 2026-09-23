@@ -38,24 +38,6 @@ If your account gets warned, restricted, suspended, or banned, that risk is enti
 
 This project does not guarantee that your account will be safe from Roblox moderation.
 
-## UI Situation
-
-yes, the UI is still kinda AI slop.
-
-i got lazy.
-
-the launcher works, so i spent more time making the actual functionality work instead of fighting with buttons, spacing, gradients, and whatever else frontend people enjoy doing.
-
-the UI will be cleaned up later.
-
-probably.
-
-## Requirements
-
-- Windows 10 or Windows 11
-- Roblox installed
-- Internet connection :D
-
 ## Usage
 
 1. Open the launcher.
@@ -70,14 +52,8 @@ Do not close the launcher while it is still starting Roblox instances.
 - Launch timing may vary depending on your PC and connection
 - Roblox updates may temporarily break some functionality
 - UI is currently questionable
-![Uploading bttb3dj.png…]()
-
-## Disclaimer
-
-This project is not affiliated with, endorsed by, or associated with Roblox Corporation.
-
-Roblox and all related trademarks belong to their respective owners.
 
 Use this software at your own risk.
-## app showcase <img width="1042" height="792" alt="btpw5p2" src="https://github.com/user-attachments/assets/5071eb09-56d4-4e27-ae35-3f259c8465cf" />
+
+## app showcase (kinda ai sloop im lazy hehe) <img width="1042" height="792" alt="btpw5p2" src="https://github.com/user-attachments/assets/5071eb09-56d4-4e27-ae35-3f259c8465cf" />
 ## in game <img width="1919" height="1079" alt="bttb3dj" src="https://github.com/user-attachments/assets/dfcd0d1e-91cc-4560-bbd2-d0f29a95bc47" />
